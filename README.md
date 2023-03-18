@@ -4,7 +4,7 @@ OsloMet brukernavn: s374200
 
 GitHub brukernavn: Omer-Gndz
 
-Github repo URL: 
+Github repo URL: https://github.com/data1700-v23/oblig-2-Omer-Gndz
 
 Fullt navn: Ömer Gündüz
 
